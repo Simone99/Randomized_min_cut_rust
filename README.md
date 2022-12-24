@@ -1,5 +1,5 @@
 # Randomized min cut
-Rust implementation of the randomized min cut algorithm an a graph.
+Rust implementation of the randomized min cut algorithm on a graph.
 
 ## Build and run
 Run in a terminal:
